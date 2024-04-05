@@ -1,0 +1,17 @@
+header {
+    background-image: url(../Images/4DA97E29-EFC8-474F-9056-141A535818D5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: open sans;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+}
+header h1 {
+    font-size: 60px;
+}
+header h3 {
+    font-size: 40px;
+    font-weight: lighter;
+}

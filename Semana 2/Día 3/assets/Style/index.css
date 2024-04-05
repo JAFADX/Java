@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #E83E8C;
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+@media (max-width: 768px) {
+    img {
+    width: 100%;
+    }
+}
+.text-center {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    color: #707070;
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    font-style: normal;
+}
+.imagen {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+}
+p {
+    text-align: justify;
+}
+.row {
+
+    gap: 7rem;
+}
+.payment-methods {
+    background-color: #17A2B8;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    align-items: center;
+    margin-top: 52px;
+
+    color: #fff;
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 500px;
+}
+#pie {
+    background-color: #E83E8C;
+}
+.img-fluid {
+    width: 100px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
